@@ -1,0 +1,2 @@
+openai>=2.29
+typesafe-sdk>=0.7.5
